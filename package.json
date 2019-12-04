@@ -1,0 +1,19 @@
+{
+  "name": "my_calci",
+  "version": "1.0.0",
+  "description": "Alexa Calculator Skill",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "PRATYAKSH GUPTA",
+  "license": "ISC",
+  "keywords": [
+    "alex",
+    "calculator"
+  ],
+  "dependencies": {
+    "ask-sdk-core": "^2.7.0",
+    "ask-sdk-model": "^1.23.1"
+  }
+}
